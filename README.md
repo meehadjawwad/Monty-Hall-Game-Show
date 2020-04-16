@@ -14,7 +14,7 @@ The contestant picks door 2.
 The host will open (discard) door 3, and ask the contestant if they want to stick with their original door (2) or switch to the third door (1).
 The contestant then makes the final choice._
 
-This repository contains two files:
+This repository contains three files:
 1. **monty.py** lets you play the game
 2. **analysis.py** is a simulation of the game, and provides the analysis regarding player strategy
 3. **analysis.ipynb** is a jupyter notebook of the analysis, and provides visualisation of the results
