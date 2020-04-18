@@ -1,4 +1,4 @@
-# Monty-Hall-Game-Show
+# Monty Hall Game Show
 
 The Monty Hall Problem is a probability puzzle based on a famous American television game show called 'Let's Make a Deal'.
 The game plays out as follows:
